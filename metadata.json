@@ -1,0 +1,6 @@
+{
+  "name": "S-Secure Lock",
+  "description": "Secure App Locker with premium One UI integration and biometric authentication optimized for Galaxy S20 Ultra 5G.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
